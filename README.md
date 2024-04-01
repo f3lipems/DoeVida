@@ -2,7 +2,7 @@
 
 Projeto Final do Curso de Extensão S2B - Students to Business - Trilha de Desenvolvimento Web Javascript com NodeJS.
 
-- link
+- link (Desativado)
 http://www.doevida.org
 
 ## Alunos
